@@ -13,7 +13,7 @@ Testamos três defesas: checagem de fatos, limite de encaminhamento e letramento
 - Antônio Vidal
 - Fabrício Souza
 - Matheus Souto
-- Yasmin Messias
+- Iasmin Messias
 
 ## Tecnologias
 
