@@ -11,7 +11,7 @@ Testamos três defesas: checagem de fatos, limite de encaminhamento e letramento
 ## Equipe
 
 - Anthony Vidal
-- Fabrício Souza
+- Fabrício Sousa
 - Matheus Souto
 - Iasmin Messias
 
