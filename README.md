@@ -23,7 +23,7 @@ Python, Mesa 3.5.1, NetworkX, pandas e matplotlib.
 
 | Semana | Tema | Entrega |
 | --- | --- | --- |
-| 1 | Contexto e modelo base | Experimentos 1 a 3 e registros |
+| 1 | Contexto e modelo base | Experimentos 1 a 3 e registros ✅ |
 | 2 | Intervenções das plataformas | Experimentos 4 e 5 e registros |
 | 3 | Educação midiática e proposta | Experimentos 6 e 7 e registros |
 | 4 | Parte discursiva | Questões D1 a D6 |
