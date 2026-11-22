@@ -1,7 +1,7 @@
 # Registro da semana 2
 
 Período: 24/11 a 30/11/2026. Entrega: TODO 1 e 2, Experimentos 4 e 5 e Registros 4 e 5.
-Notebook completo (semanas 1 a 4): [boatos_em_rede_semana_1.ipynb](../semana-1/boatos_em_rede_semana_1.ipynb)
+Notebook: [boatos_em_rede_semana_2.ipynb](boatos_em_rede_semana_2.ipynb) (completo, semanas 1 a 4, executado)
 Esta parte foi concluída antes do período, em 22/11/2026.
 
 ## O que foi feito
