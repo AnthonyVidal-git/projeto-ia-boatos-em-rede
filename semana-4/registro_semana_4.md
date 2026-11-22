@@ -1,7 +1,7 @@
 # Registro da semana 4
 
 Período: 08/12 a 14/12/2026. Entrega: questões D1 a D6 (parte discursiva) e teste de código da D6.
-Notebook completo, executado (semanas 1 a 4): [boatos_em_rede_semana_1.ipynb](../semana-1/boatos_em_rede_semana_1.ipynb)
+Notebook: [boatos_em_rede_semana_4.ipynb](boatos_em_rede_semana_4.ipynb) (completo, semanas 1 a 4, executado)
 Esta parte foi concluída antes do período, em 22/11/2026.
 
 ## O que foi feito
