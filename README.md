@@ -31,7 +31,7 @@ Python, Mesa 3.5.1, NetworkX, pandas e matplotlib.
 | 3 | Educação midiática e proposta | TODO 3, Experimentos 6 e 7 e registros ✅ | [semana-3](semana-3) |
 | 4 | Parte discursiva | Questões D1 a D6 e teste da D6 ✅ | [semana-4](semana-4) |
 
-Cada semana tem sua pasta com um registro curto do que foi feito. O notebook completo, já executado, está em [semana-1/boatos_em_rede_semana_1.ipynb](semana-1/boatos_em_rede_semana_1.ipynb).
+Cada semana tem sua pasta com um registro curto do que foi feito. Cada pasta tem o notebook da semana (`boatos_em_rede_semana_N.ipynb`), completo e já executado.
 
 ## Histórico
 
