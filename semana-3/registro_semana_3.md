@@ -1,7 +1,7 @@
 # Registro da semana 3
 
 Período: 01/12 a 07/12/2026. Entrega: TODO 3, Experimentos 6 e 7 e Registros 6 e 7.
-Notebook completo (semanas 1 a 4): [boatos_em_rede_semana_1.ipynb](../semana-1/boatos_em_rede_semana_1.ipynb)
+Notebook: [boatos_em_rede_semana_3.ipynb](boatos_em_rede_semana_3.ipynb) (completo, semanas 1 a 4, executado)
 Esta parte foi concluída antes do período, em 22/11/2026.
 
 ## O que foi feito
